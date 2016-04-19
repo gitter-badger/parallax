@@ -1,5 +1,7 @@
 # Parallax.js
 
+[![Join the chat at https://gitter.im/MiddleNameCSS/parallax](https://badges.gitter.im/MiddleNameCSS/parallax.svg)](https://gitter.im/MiddleNameCSS/parallax?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Parallax Engine that reacts to the orientation of a smart device. Where no gyroscope or motion detection hardware is available, the position of the cursor is used instead.
 
 Check out this **[demo][demo]** to see it in action!
